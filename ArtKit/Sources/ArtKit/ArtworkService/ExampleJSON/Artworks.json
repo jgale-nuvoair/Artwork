@@ -1,0 +1,2188 @@
+{
+    "pagination": {
+        "total": 119590,
+        "limit": 12,
+        "offset": 0,
+        "total_pages": 9966,
+        "current_page": 1,
+        "next_url": "https:\/\/api.artic.edu\/api\/v1\/artworks?page=2"
+    },
+    "data": [
+        {
+            "id": 3752,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/3752",
+            "is_boosted": false,
+            "title": "The Madonna of the Rosary",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhAwAFAPMAAIqKd4+Pe5WVgJWUgZaVgZaXgpiYhJmZhJqahpubh52diaOijaink6qqlAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMAUlziiIKGDaYhEAOw==",
+                "width": 2218,
+                "height": 3258,
+                "alt_text": "A work made of engraving on ivory laid paper."
+            },
+            "main_reference_number": "1956.836",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1475,
+            "date_end": 1485,
+            "date_display": "c. 1480",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440\/45-1503",
+            "place_of_origin": "Germany",
+            "dimensions": "Sheet: 27.1 \u00d7 18.5 cm (10 11\/16 \u00d7 7 5\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 18.5,
+                    "width_in": 7.2835,
+                    "height_cm": 27.1,
+                    "height_in": 10.6693,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Sheet"
+                }
+            ],
+            "medium_display": "Engraving on ivory laid paper",
+            "inscriptions": null,
+            "credit_line": "Bequest of Mrs. Potter Palmer, Jr.",
+            "catalogue_display": "<p>Lehrs IX.199<\/p><p>Bartsch VI.221.48<\/p><p>Geisberg 182<\/p><p>Hollstein XXIV.199<\/p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 9.2077,
+            "color": {
+                "h": 57,
+                "l": 53,
+                "s": 8,
+                "percentage": 0.08786605265830741,
+                "population": 917
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37116,
+            "artist_title": "Israhel van Meckenem, the younger",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37116
+            ],
+            "artist_titles": [
+                "Israhel van Meckenem, the younger"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "engraving",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing",
+                "ink"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-12",
+            "classification_title": "engraving",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-12",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "engraving",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2398"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2398"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "ink"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "d0979087-dc1b-f259-a23f-169cdced27ee",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1956.836"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "The Madonna of the Rosary"
+                    ],
+                    "weight": 457,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:15:04-05:00",
+            "updated_at": "2023-04-11T10:17:34-05:00",
+            "timestamp": "2023-04-11T10:20:42-05:00"
+        },
+        {
+            "id": 40351,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/40351",
+            "is_boosted": false,
+            "title": "The Five Foxes",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAJ6diaenlKqplauqmLCvnbGwnbGwnrW0ore1o7i3pLu6qL28q7++rL++rcHArcHAsMTDssbFtMvJt8\/OvQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoAQNilAYiNNMEUMEwPEsSQgAOw==",
+                "width": 2176,
+                "height": 3108,
+                "alt_text": "A work made of engraving on ivory laid paper."
+            },
+            "main_reference_number": "1940.1313",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1485,
+            "date_end": 1495,
+            "date_display": "c. 1490",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440\/45-1503",
+            "place_of_origin": "Germany",
+            "dimensions": "16.8 \u00d7 11.8 cm (6 5\/8 \u00d7 4 11\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 11.8,
+                    "width_in": 4.6457,
+                    "height_cm": 16.8,
+                    "height_in": 6.6142,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Engraving on ivory laid paper",
+            "inscriptions": null,
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": "<p>Lehrs VI.496<\/p><p>Bartsch IX.276.192<\/p><p>Geisberg 424<\/p><p>Hollstein XXIV.496<\/p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": 1941,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 8.9664,
+            "color": {
+                "h": 55,
+                "l": 45,
+                "s": 18,
+                "percentage": 0.006995266864504636,
+                "population": 71
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37116,
+            "artist_title": "Israhel van Meckenem, the younger",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37116
+            ],
+            "artist_titles": [
+                "Israhel van Meckenem, the younger"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "engraving",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-12",
+            "classification_title": "engraving",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-12",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "engraving",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2982"
+            ],
+            "material_titles": [
+                "paper (fiber product)"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "248dbe62-484f-bf62-52ef-f2e999c3728b",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1940.1313"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "The Five Foxes"
+                    ],
+                    "weight": 174,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:16:11-05:00",
+            "updated_at": "2023-04-11T10:17:33-05:00",
+            "timestamp": "2023-04-11T10:20:42-05:00"
+        },
+        {
+            "id": 27009,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/27009",
+            "is_boosted": false,
+            "title": "Ornament with the Tree of Jesse",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhCwAFAPUAAHNxX3RzYnl4ZXl4Znp4Znt6aHx6aXx7aX18aX58aX99an59a39+aoF\/bIGAbYKAbYOBbYKAboOBboSCboSCb4WDb4WDcIaEcIaEcYeFcYeGc4iGcYiGcomHcoiGc4mHc4uIc4qIdYuKdYqJdo2Kdo+NeI6MeY+NeZKPeZSRe5KQfJORfJORfpSSfpiWgwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAALAAUAAAYywNHCU+B0KhsMqMQJKAQMCGKSeYQilsLHc7goIgaTBOAYJCANSoOgOXFWohSKpGqxXEEAOw==",
+                "width": 3480,
+                "height": 1600,
+                "alt_text": "A work made of engraving on paper."
+            },
+            "main_reference_number": "1938.123",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1480,
+            "date_end": 1490,
+            "date_display": "1480\u201390",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440\/45-1503",
+            "place_of_origin": "Germany",
+            "dimensions": "12.1 \u00d7 26.8 cm (4 13\/16 \u00d7 10 9\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 26.8,
+                    "width_in": 10.5512,
+                    "height_cm": 12.1,
+                    "height_in": 4.7638,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Engraving on paper",
+            "inscriptions": null,
+            "credit_line": "Clarence Buckingham Collection",
+            "catalogue_display": "<p>Lehrs IX.618<\/p><p>Geisberg 466 I\/II<\/p><p>Bartsch VI.281.202<\/p><p>Hollstein XXIV.618<\/p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": 1938,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 11.4538,
+            "color": {
+                "h": 52,
+                "l": 49,
+                "s": 10,
+                "percentage": 0.22563011336537409,
+                "population": 738
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37116,
+            "artist_title": "Israhel van Meckenem, the younger",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37116
+            ],
+            "artist_titles": [
+                "Israhel van Meckenem, the younger"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "engraving",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-12",
+            "classification_title": "engraving",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-12",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "engraving",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2982"
+            ],
+            "material_titles": [
+                "paper (fiber product)"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "d001c1e1-efa0-a58e-7269-f1f590d2bbe0",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1938.123"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Ornament with the Tree of Jesse"
+                    ],
+                    "weight": 412,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:15:45-05:00",
+            "updated_at": "2023-04-11T10:17:33-05:00",
+            "timestamp": "2023-04-11T10:20:42-05:00"
+        },
+        {
+            "id": 3816,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/3816",
+            "is_boosted": false,
+            "title": "Ornamental Panel With Two Lovers",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBwAFAPQAAGpoVXJxXXRyXXVzXnd2Ynh2YHh3Ynl3Y3l3ZHt5ZHt5ZX17ZXx6Zn17Znx6Z358ZoB+aIF+aYF\/aYB\/a4J\/a4OAaoKAa4OBa4KAbYOBbYWDb4aEb42LdI6Md4+MeAAAACH5BAAAAAAALAAAAAAHAAUAAAUdoBMYVzJo0wFxT9VhzbVZkccUSyM1GQIIBMWBEgIAOw==",
+                "width": 3372,
+                "height": 2284,
+                "alt_text": "A work made of engraving printed in black, on ivory laid paper."
+            },
+            "main_reference_number": "1956.854",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1480,
+            "date_end": 1490,
+            "date_display": "1480\u201390",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440\/45-1503",
+            "place_of_origin": "Germany",
+            "dimensions": "16.3 \u00d7 23.9 cm (6 7\/16 \u00d7 9 7\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 23.9,
+                    "width_in": 9.4095,
+                    "height_cm": 16.3,
+                    "height_in": 6.4174,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Engraving printed in black, on ivory laid paper",
+            "inscriptions": null,
+            "credit_line": "Bequest of Mrs. Potter Palmer, Jr.",
+            "catalogue_display": "<p>Lehrs IX.619<\/p><p>Bartsch VI.282.205<\/p><p>Geisberg 471<\/p><p>Hollstein XXIV.619<\/p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 12.2228,
+            "color": {
+                "h": 58,
+                "l": 59,
+                "s": 12,
+                "percentage": 0.22187459099662823,
+                "population": 1068
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37116,
+            "artist_title": "Israhel van Meckenem, the younger",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37116
+            ],
+            "artist_titles": [
+                "Israhel van Meckenem, the younger"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "engraving",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-12",
+            "classification_title": "engraving",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-12",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "engraving",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2982"
+            ],
+            "material_titles": [
+                "paper (fiber product)"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "763257c8-fbf9-0377-54ab-ae3cee7ff7a4",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1956.854"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Ornamental Panel With Two Lovers"
+                    ],
+                    "weight": 843,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:15:24-05:00",
+            "updated_at": "2023-04-11T10:17:33-05:00",
+            "timestamp": "2023-04-11T10:20:42-05:00"
+        },
+        {
+            "id": 86265,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/86265",
+            "is_boosted": false,
+            "title": "St. Luke Portraying the Madonna",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhAwAFAPMAAHJtXH14Y4J9a4R\/bIuGcZGLdpWOe5mTep2XhJ+YgqehiK2nkbKtmb65osG6pQAAACH5BAAAAAAALAAAAAADAAUAAAQL0KSFFBiniEAcaxEAOw==",
+                "width": 2059,
+                "height": 3000,
+                "alt_text": "A work made of engraving printed in black, on ivory laid paper."
+            },
+            "main_reference_number": "1956.41",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1490,
+            "date_end": 1500,
+            "date_display": "1490\u20131500",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440\/45-1503",
+            "place_of_origin": "Germany",
+            "dimensions": "Image\/plate: 20.8 \u00d7 14 cm (8 1\/4 \u00d7 5 9\/16 in.); Sheet: 21 \u00d7 14.4 cm (8 5\/16 \u00d7 5 11\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 14,
+                    "width_in": 5.5119,
+                    "height_cm": 20.8,
+                    "height_in": 8.189,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Image\/plate"
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 14.4,
+                    "width_in": 5.6693,
+                    "height_cm": 21,
+                    "height_in": 8.2678,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Sheet"
+                }
+            ],
+            "medium_display": "Engraving printed in black, on ivory laid paper",
+            "inscriptions": null,
+            "credit_line": "Gift of Mrs. Potter Palmer, Jr.",
+            "catalogue_display": "<p>Lehrs IX.370<\/p><p>Bartsch VI. 238.107<\/p><p>Hollstein XXIV. 370<\/p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 17.1994,
+            "color": {
+                "h": 48,
+                "l": 48,
+                "s": 20,
+                "percentage": 0.006182356327834901,
+                "population": 64
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37116,
+            "artist_title": "Israhel van Meckenem, the younger",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37116
+            ],
+            "artist_titles": [
+                "Israhel van Meckenem, the younger"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "engraving",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-12",
+            "classification_title": "engraving",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-12",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "engraving",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2982"
+            ],
+            "material_titles": [
+                "paper (fiber product)"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "08818a6c-4564-d136-251c-742b58f996be",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1956.41"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "St. Luke Portraying the Madonna"
+                    ],
+                    "weight": 202,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:16:31-05:00",
+            "updated_at": "2023-04-11T10:17:32-05:00",
+            "timestamp": "2023-04-11T10:20:42-05:00"
+        },
+        {
+            "id": 61073,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/61073",
+            "is_boosted": false,
+            "title": "Jeanne B\u00e9cu, Comtesse Du Barry, and her servant Zamor",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBAAFAPQAAF1JN1ZKOW5eTnlVRXFcTHNiTXJhTnJkUHNrWX9rWX1sWYt7aZuFdJ6EdKiYgLCZh7SjjLiok7uok7irlQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYGEIRHAoQLJEyMBMTvNIUAgAOw==",
+                "width": 1674,
+                "height": 2250,
+                "alt_text": "A work made of color aquatint, hand applied opaque white and embossing on laid paper."
+            },
+            "main_reference_number": "1928.592",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1771,
+            "date_end": 1771,
+            "date_display": "1771",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Jean-Baptiste-Andr\u00e9 Gautier D'Agoty\nFrench, 1740-1786",
+            "place_of_origin": "France",
+            "dimensions": "Plate: 39.9 \u00d7 31.2 cm (15 3\/4 \u00d7 12 5\/16 in.); Sheet: 44.7 \u00d7 33.6 cm (17 5\/8 \u00d7 13 1\/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 31.2,
+                    "width_in": 12.2835,
+                    "height_cm": 39.9,
+                    "height_in": 15.7087,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Plate"
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 33.6,
+                    "width_in": 13.2284,
+                    "height_cm": 44.7,
+                    "height_in": 17.5985,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Sheet"
+                }
+            ],
+            "medium_display": "Color aquatint, hand applied opaque white and embossing on laid paper",
+            "inscriptions": null,
+            "credit_line": "Gift of Mrs. Charles Netcher",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": 1928,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 23.3705,
+            "color": {
+                "h": 84,
+                "l": 32,
+                "s": 6,
+                "percentage": 0.007224230697954914,
+                "population": 69
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 55053,
+            "artist_title": "Jean Baptiste Andr\u00e9 Gautier d'Agoty",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                55053
+            ],
+            "artist_titles": [
+                "Jean Baptiste Andr\u00e9 Gautier d'Agoty"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "aquatint",
+                "aquatint",
+                "paper (fiber product)",
+                "etching",
+                "printing",
+                "print",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-147",
+            "classification_title": "aquatint",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-147",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "aquatint",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2982"
+            ],
+            "material_titles": [
+                "paper (fiber product)"
+            ],
+            "technique_id": "TM-3879",
+            "alt_technique_ids": [
+                "TM-3874",
+                "TM-3861"
+            ],
+            "technique_ids": [
+                "TM-3879",
+                "TM-3874",
+                "TM-3861"
+            ],
+            "technique_titles": [
+                "aquatint",
+                "etching",
+                "printing"
+            ],
+            "theme_titles": [],
+            "image_id": "b51cc770-0d06-12fe-5a7a-b303aad551d0",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1928.592"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Jeanne B\u00e9cu, Comtesse Du Barry, and her servant Zamor"
+                    ],
+                    "weight": 814,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:10:09-05:00",
+            "updated_at": "2023-04-11T10:12:29-05:00",
+            "timestamp": "2023-04-11T10:20:42-05:00"
+        },
+        {
+            "id": 53072,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/53072",
+            "is_boosted": false,
+            "title": "White Justice",
+            "alt_titles": null,
+            "thumbnail": null,
+            "main_reference_number": "1978.428",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1972,
+            "date_end": 1972,
+            "date_display": "1972",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Peter Saul\nAmerican, born 1934",
+            "place_of_origin": "United States",
+            "dimensions": "198 \u00d7 190 cm (78 \u00d7 74 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 190,
+                    "width_in": 74,
+                    "height_cm": 198,
+                    "height_in": 78,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Acrylic on canvas",
+            "inscriptions": null,
+            "credit_line": "Gift of Darthea Speyer",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 246,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": null,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Painting",
+            "artwork_type_id": 1,
+            "department_title": "Contemporary Art",
+            "department_id": "PC-8",
+            "artist_id": 36545,
+            "artist_title": "Peter Saul",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                36545
+            ],
+            "artist_titles": [
+                "Peter Saul"
+            ],
+            "category_ids": [
+                "PC-8"
+            ],
+            "category_titles": [
+                "Contemporary Art"
+            ],
+            "term_titles": [
+                "painting",
+                "women",
+                "modern and contemporary art",
+                "buildings",
+                "pink (color)",
+                "blue (color)",
+                "black (color)",
+                "red (color)",
+                "orange (color)",
+                "green (color)",
+                "text",
+                "blood",
+                "skyscrapers",
+                "violence"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-9",
+            "classification_title": "painting",
+            "alt_classification_ids": [
+                "TM-155"
+            ],
+            "classification_ids": [
+                "TM-9",
+                "TM-155"
+            ],
+            "classification_titles": [
+                "painting",
+                "modern and contemporary art"
+            ],
+            "subject_id": "TM-8735",
+            "alt_subject_ids": [
+                "TM-12296",
+                "TM-11848",
+                "TM-11843",
+                "TM-11845",
+                "TM-11851",
+                "TM-11905",
+                "TM-11849",
+                "TM-12260",
+                "TM-12802",
+                "TM-12539",
+                "TM-12307"
+            ],
+            "subject_ids": [
+                "TM-8735",
+                "TM-12296",
+                "TM-11848",
+                "TM-11843",
+                "TM-11845",
+                "TM-11851",
+                "TM-11905",
+                "TM-11849",
+                "TM-12260",
+                "TM-12802",
+                "TM-12539",
+                "TM-12307"
+            ],
+            "subject_titles": [
+                "women",
+                "buildings",
+                "pink (color)",
+                "blue (color)",
+                "black (color)",
+                "red (color)",
+                "orange (color)",
+                "green (color)",
+                "text",
+                "blood",
+                "skyscrapers",
+                "violence"
+            ],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": null,
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1978.428"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "White Justice"
+                    ],
+                    "weight": 159,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:08:11-05:00",
+            "updated_at": "2023-04-11T10:12:29-05:00",
+            "timestamp": "2023-04-11T10:20:42-05:00"
+        },
+        {
+            "id": 13096,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/13096",
+            "is_boosted": false,
+            "title": "The Baptism of the Eunuch",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAK2biK6biLejj7yqlsKvmsiznsi1n8m2ocu2oMq3o865os27p867qM+8qdHArNXBrdjDrNnFrdjFr9vFrtvJteHNtuDMt+LNt+DOuOLOuOPRu+PRvePTwAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIKdV2bVhSARNFjUYgmItBBAUjCMdydOEADs=",
+                "width": 2625,
+                "height": 2250,
+                "alt_text": "A work made of etching on buff laid paper."
+            },
+            "main_reference_number": "1924.618",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1641,
+            "date_end": 1641,
+            "date_display": "1641",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Rembrandt van Rijn\nDutch, 1606-1669",
+            "place_of_origin": "Holland",
+            "dimensions": "Plate: 18.2 \u00d7 21.3 cm (7 3\/16 \u00d7 8 7\/16 in.); Sheet: 18.7 \u00d7 21.6 cm (7 3\/8 \u00d7 8 9\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 21.3,
+                    "width_in": 8.3859,
+                    "height_cm": 18.2,
+                    "height_in": 7.1654,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Plate"
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 21.6,
+                    "width_in": 8.504,
+                    "height_cm": 18.7,
+                    "height_in": 7.3623,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Sheet"
+                }
+            ],
+            "medium_display": "Etching on buff laid paper",
+            "inscriptions": null,
+            "credit_line": "John H. Wrenn Memorial Collection",
+            "catalogue_display": "<p>Seidlitz 98<\/p><p>Hind 182<\/p><p>Bi\u00f6rklund 41-E<\/p><p>Rovinskii 98<\/p><p>Munz 196<\/p><p>Middleton 185<\/p><p>White & Boon 98<\/p><p>Bartsch 98 I\/II<\/p><p>New Hollstein 186 II\/IV<\/p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 17.2621,
+            "color": {
+                "h": 37,
+                "l": 75,
+                "s": 28,
+                "percentage": 0.020837127495328053,
+                "population": 127
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 40769,
+            "artist_title": "Rembrandt van Rijn",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                40769
+            ],
+            "artist_titles": [
+                "Rembrandt van Rijn"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "etching",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing",
+                "ink",
+                "paper",
+                "laid paper"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-18",
+            "classification_title": "etching",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4",
+                "TM-145"
+            ],
+            "classification_ids": [
+                "TM-18",
+                "TM-17",
+                "TM-4",
+                "TM-145"
+            ],
+            "classification_titles": [
+                "etching",
+                "print",
+                "prints and drawing",
+                "paper"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2398",
+                "TM-3070"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2398",
+                "TM-3070"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "ink",
+                "laid paper"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "6561d09e-7a49-394e-7ce1-ed7778ad0544",
+            "alt_image_ids": [
+                "c603bce8-ddde-2539-e808-814d4e942da9"
+            ],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1924.618"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "The Baptism of the Eunuch"
+                    ],
+                    "weight": 353,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:09:51-05:00",
+            "updated_at": "2023-04-11T10:12:29-05:00",
+            "timestamp": "2023-04-11T10:20:43-05:00"
+        },
+        {
+            "id": 81485,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/81485",
+            "is_boosted": false,
+            "title": "Combat of Two Wild Men on Horseback",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBwAFAPUAAJONg5aRhJeRhpmTh5yWiqOckaWfk6ahlaigl6ylmKylmrGqnrStobawpLmxpbuxpru1qLy1qL20qby1qr63rcC3q8S7r8W9sMW9sce\/tcrCtc\/Hvc\/Iu87IvNPNwtXOwtfPwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQE8HwgFRNp\/FgKEQZBSHQIIAkDQMEYyjgJhUNBeL5REEADs=",
+                "width": 1024,
+                "height": 688,
+                "alt_text": "A work made of engraving on ivory laid paper."
+            },
+            "main_reference_number": "1922.348",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1475,
+            "date_end": 1485,
+            "date_display": "1475\/85",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Israhel van Meckenem the Younger (German, c. 1440\/45-1503)\nafter Master of the Housebook (German, active c. 1470-1500)",
+            "place_of_origin": "Germany",
+            "dimensions": "14 \u00d7 21.1 cm (5 9\/16 \u00d7 8 5\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 21.1,
+                    "width_in": 8.3071,
+                    "height_cm": 14,
+                    "height_in": 5.5119,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Engraving on ivory laid paper",
+            "inscriptions": null,
+            "credit_line": "Gift of Mr. and Mrs. Potter Palmer, Jr.",
+            "catalogue_display": "<p>Lehrs 491.IX<\/p><p>Bartsch 200.280.VI<\/p><p>Geisberg 438<\/p><p>Hollstein XXIV.491<\/p>",
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 3,
+            "fiscal_year": 1922,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 8.7305,
+            "color": {
+                "h": 40,
+                "l": 51,
+                "s": 6,
+                "percentage": 0.05218615997887403,
+                "population": 249
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Print",
+            "artwork_type_id": 18,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37116,
+            "artist_title": "Israhel van Meckenem, the younger",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37116
+            ],
+            "artist_titles": [
+                "Israhel van Meckenem, the younger"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "engraving",
+                "paper (fiber product)",
+                "print",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-12",
+            "classification_title": "engraving",
+            "alt_classification_ids": [
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-12",
+                "TM-17",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "engraving",
+                "print",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2982"
+            ],
+            "material_titles": [
+                "paper (fiber product)"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "d26e6242-2650-76af-a095-e7430e582cbf",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1922.348"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Combat of Two Wild Men on Horseback"
+                    ],
+                    "weight": 239,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T10:10:38-05:00",
+            "updated_at": "2023-04-11T10:12:28-05:00",
+            "timestamp": "2023-04-11T10:20:43-05:00"
+        },
+        {
+            "id": 69012,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/69012",
+            "is_boosted": false,
+            "title": "Cup and Saucer",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAB0ZHB4ZHBwZHiYfHz4rHyohIHFUPkI9Q0lCRkZCSXdrcnVscaNtMolmR5piRIttU6F1SoNwcZF9eqmDXJGCfKqJbLORcIiCipqJh5KCi6edoauipqmiqrOqrAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYAAMRCEcidE8iBJBk7VkDlNRF4dJWreFADs=",
+                "width": 2629,
+                "height": 2250,
+                "alt_text": "A work made of hard-paste porcelain, enamel and gilding."
+            },
+            "main_reference_number": "1913.243a-b",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1810,
+            "date_end": 1815,
+            "date_display": "1810\/15",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Dagoty Porcelain Factory (French, 1800-1820)\nParis",
+            "place_of_origin": "Paris",
+            "dimensions": "Diam.: 13 cm (5 1\/8 in.); Cup: 5.7 \u00d7 9.8 cm (2 1\/4 \u00d7 3 7\/8 in.); Saucer D: D.: 3.2 cm (1 1\/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 0,
+                    "width_in": 0,
+                    "height_cm": 0,
+                    "height_in": 0,
+                    "diameter_cm": 13,
+                    "diameter_in": 5.125,
+                    "clarification": null
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 9.8,
+                    "width_in": 3.875,
+                    "height_cm": 5.7,
+                    "height_in": 2.25,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Cup"
+                },
+                {
+                    "depth_cm": 3.2,
+                    "depth_in": 1.25,
+                    "width_cm": 0,
+                    "width_in": 0,
+                    "height_cm": 0,
+                    "height_in": 0,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Saucer D"
+                }
+            ],
+            "medium_display": "Hard-paste porcelain, enamel and gilding",
+            "inscriptions": null,
+            "credit_line": "Gift of Alfred Duane Pell",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 6,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 44.2467,
+            "color": {
+                "h": 8,
+                "l": 45,
+                "s": 65,
+                "percentage": 0.0039431787935844485,
+                "population": 24
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Ceramics",
+            "artwork_type_id": 36,
+            "department_title": "Applied Arts of Europe",
+            "department_id": "PC-9",
+            "artist_id": 113637,
+            "artist_title": "Pierre Louis Dagoty",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                113637
+            ],
+            "artist_titles": [
+                "Pierre Louis Dagoty"
+            ],
+            "category_ids": [
+                "PC-9"
+            ],
+            "category_titles": [
+                "Applied Arts of Europe"
+            ],
+            "term_titles": [
+                "drinking vessel",
+                "porcelain",
+                "european decorative arts",
+                "ceramics"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-11734",
+            "classification_title": "drinking vessel",
+            "alt_classification_ids": [
+                "TM-1394",
+                "TM-46"
+            ],
+            "classification_ids": [
+                "TM-11734",
+                "TM-1394",
+                "TM-46"
+            ],
+            "classification_titles": [
+                "drinking vessel",
+                "european decorative arts",
+                "ceramics"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2448",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2448"
+            ],
+            "material_titles": [
+                "porcelain"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "0afc3e88-0dd4-f7fb-2440-5c33b60530f4",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1913.243a-b"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Cup and Saucer"
+                    ],
+                    "weight": 52,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T09:38:37-05:00",
+            "updated_at": "2023-04-11T09:42:30-05:00",
+            "timestamp": "2023-04-11T10:20:43-05:00"
+        },
+        {
+            "id": 20523,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/20523",
+            "is_boosted": false,
+            "title": "Landscape with a Castle",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBwAFAPUAALORcreUdLWWdLeWdriWd7mXebyXeLmdg72dgL+hgr+ih8KjhMKnjMWmjMapi8WojsWpjseqj8mtj8Opkcevl8ipkMiqkMmrkMmtksutlMuwlsmymcyzm860nMy2oM24otK8ptK\/qwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQABj8\/FQDoQHpwMKTQoRSyXDUQwgmIumgRAkFhKHIRAEADs=",
+                "width": 3000,
+                "height": 2029,
+                "alt_text": "A work made of red chalk on buff laid paper, laid down on cream laid card."
+            },
+            "main_reference_number": "1964.194",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1716,
+            "date_end": 1718,
+            "date_display": "1716\/18",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Jean Antoine Watteau\nFrench, 1684-1721",
+            "place_of_origin": "France",
+            "dimensions": "22.4 \u00d7 33.8 cm (8 7\/8 \u00d7 13 5\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 33.8,
+                    "width_in": 13.3071,
+                    "height_cm": 22.4,
+                    "height_in": 8.8189,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Red chalk on buff laid paper, laid down on cream laid card",
+            "inscriptions": null,
+            "credit_line": "Purchased with funds provided by the Joseph and Helen Regenstein Foundation",
+            "catalogue_display": null,
+            "publication_history": "K. T. Parker and J. Mathey, Antoine Watteau, Catalogue Complet de son Oeuvre Dessin\u00e9 (Paris, 1957), no. 427 (ill.).\n\nArt Quarterly, 27 (1964), p. 499.\n\nHugh Edwards, \"Two Drawings by Antoine Watteau,\" The Art Institute of Chicago Museum Studies (1966), pp. 9-14 (ill.).\n\nMartin P. Eidelberg, \"Watteau\u2019s Use of Landscape Drawing,\" Master Drawings 5 (1967), pp. 176 and 181 (ill.).\n\nMalcolm Cormack, The Drawings of Watteau (London, 1970), no. 32 (ill.).\n\nSuzanne McCullagh, \"A Study for \u2018La F\u00eate d\u2019Amour\u2019 by Antoine Watteau,\" Bulletin of The Art Institute of Chicago, 70 (January-February 1976), p. 16.\n\nMartin P. Eidelberg, Watteau\u2019s Drawings, Their Use and Significance (New York, 1977), pp. 67-68 (ill.).\n\nHarold Joachim, French Drawings and Sketchbooks of the Eighteenth Century (Chicago, 1977), p. 58, no. 2G4.\n\nWatteau Drawings in the British Museum (London, 1980), p. 10.\n\nDonald Posner, Antoine Watteau (London, 1984), pp. 107-109 (ill.).\n\nMargaret Morgan Grasselli, The Watteau Society Bulletin, 2 (1985), p. 44.\n\nMargaret Morgan Grasselli, The Drawings of Watteau (Cambridge, 1987), no. 228 (ill.).\n\nRobert Cafritz, Places of Delight: The Pastoral Landscape (New York, 1988), pp. 158 and 162 (ill.).\n\nFran\u00e7ois Moreau, \"L\u2019Italie d\u2019Antoine Watteau ou le R\u00eave de L\u2019Artiste,\" Dix-Huiti\u00e8me Si\u00e8cle, 20 (1988), p. 450.\n\nMartin P. Eidelberg, \"Watteau\u2019s Italian R\u00eaveries, Gazette des Beaux-Art, 126 (October 1995), pp. 114, 124-125 (ill.). \n\nPierre Rosenberg and Louis-Antoine Prat, Antoine Watteau, 1684-1721: Catalogue Raisonn\u00e9 des Dessins, (Milan, 1996), pp. 720-21, no. 433 (ill.).\n\nMaster Drawings, Volume 54 Number 1, Spring 2016, David Pullins, \"A New Watteau Drawing after an Italian Landscape, Discovered in the Muse\u00e9 des Artes D\u00e9coratifs, Paris\" p. 63-65, fig 2 (ill.).",
+            "exhibition_history": "Paris, Palais des Beaux-Arts, \"Paysage Fran\u00e7ais de Poussin \u00e0 Corot,\" 1925, cat. 712.\n\nThe Art Institute of Chicago, \"The Helen Regenstein Collection of European Drawings,\" 1974, pp. 58-59, cat. 28 (ill.), cat. by Harold Joachim.\n\nWashington, D.C., The National Gallery of Art, \"Watteau,\" June 17-September 23, 1984, cat. 141; also traveled to Paris, the Galeries Nationales du Grand Palais, October 23, 1984-January 28, 1985; and Berlin, the Charlottenburg Ch\u00e2teau, February 22-May 26, 1985. \n\nNew York, P.&D. Colnaghi, \"Claude to Corot: The Development of Landscape Painting in France,\" November 1-December 15, 1990, cat. 19, cat. by Alan Wintermute, et al..",
+            "provenance_text": "Charles Rogers (died 1784), London [Lugt 624]; by descent to his brother-in-law, William Cotton (died 1791); by descent to his son, William Cotton II; sold, Sotheby's, London, April 15, 1799, Cotton sale [New York 1990].  Adrien Fauchier-Magnan (died 1965), Paris; sold, Sotheby\u2019s, London, December 4, 1935, Fauchier-Magnan sale, lot 72, to Lucien Guiraud (died 1954).  Sold by Charles E. Slatkin Gallery, New York, to the Art Institute, 1964.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 27.1363,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Drawing and Watercolor",
+            "artwork_type_id": 14,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37236,
+            "artist_title": "Jean Antoine Watteau",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37236
+            ],
+            "artist_titles": [
+                "Jean Antoine Watteau"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "chalk",
+                "paper (fiber product)",
+                "red chalk",
+                "chalk",
+                "inorganic material",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-209",
+            "classification_title": "chalk",
+            "alt_classification_ids": [
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-209",
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "chalk",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2415",
+                "TM-3782",
+                "TM-2600"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2415",
+                "TM-3782",
+                "TM-2600"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "red chalk",
+                "chalk",
+                "inorganic material"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "f62dba61-3efe-fc08-f491-211f42ac9efd",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1964.194"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Landscape with a Castle"
+                    ],
+                    "weight": 827,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T09:32:48-05:00",
+            "updated_at": "2023-04-11T09:37:33-05:00",
+            "timestamp": "2023-04-11T10:20:43-05:00"
+        },
+        {
+            "id": 265499,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/265499",
+            "is_boosted": false,
+            "title": "Self Portrait",
+            "alt_titles": null,
+            "thumbnail": null,
+            "main_reference_number": "2022.1474",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1940,
+            "date_end": 1949,
+            "date_display": "1940s",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Roland Ginzel\nAmerican, 1921-2021",
+            "place_of_origin": "United States",
+            "dimensions": "25 \u00d7 20 cm (9 7\/8 \u00d7 7 7\/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 20,
+                    "width_in": 7.8741,
+                    "height_cm": 25,
+                    "height_in": 9.8426,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Graphite on cream wove paper",
+            "inscriptions": "Signed lower right, in graphite: \u201cR Ginzel\u201d; inscribed verso, lower right, in graphite: \u201cRG\u2013WP\u2013128\u201d",
+            "credit_line": "Gift of Andrew Ginzel and Lisa Ginzel",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 3,
+            "fiscal_year": 2023,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": null,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Drawing and Watercolor",
+            "artwork_type_id": 14,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 34663,
+            "artist_title": "Roland Ginzel",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                34663
+            ],
+            "artist_titles": [
+                "Roland Ginzel"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "graphite",
+                "prints and drawing",
+                "wove paper",
+                "drawing",
+                "graphite",
+                "paper"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-4",
+            "classification_title": "prints and drawing",
+            "alt_classification_ids": [
+                "TM-14658",
+                "TM-175",
+                "TM-145"
+            ],
+            "classification_ids": [
+                "TM-4",
+                "TM-14658",
+                "TM-175",
+                "TM-145"
+            ],
+            "classification_titles": [
+                "prints and drawing",
+                "drawing",
+                "graphite",
+                "paper"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2410",
+            "alt_material_ids": [
+                "TM-3074"
+            ],
+            "material_ids": [
+                "TM-2410",
+                "TM-3074"
+            ],
+            "material_titles": [
+                "graphite",
+                "wove paper"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": null,
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2022.1474"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Self Portrait"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-04-11T09:35:15-05:00",
+            "updated_at": "2023-04-11T09:37:32-05:00",
+            "timestamp": "2023-04-11T10:20:43-05:00"
+        }
+    ],
+    "info": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/",
+            "https:\/\/www.artic.edu\/terms"
+        ],
+        "version": "1.8"
+    },
+    "config": {
+        "iiif_url": "https:\/\/www.artic.edu\/iiif\/2",
+        "website_url": "http:\/\/www.artic.edu"
+    }
+}
